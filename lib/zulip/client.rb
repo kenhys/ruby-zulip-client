@@ -2,7 +2,6 @@ require "json"
 require "uri"
 require "faraday"
 require "typhoeus"
-require "typhoeus/adapters/faraday"
 
 require "zulip/error"
 
