@@ -22,7 +22,7 @@ Gem::Specification.new do |spec|
 
   spec.add_runtime_dependency "faraday", ">= 0.11.0"
   spec.add_runtime_dependency "typhoeus", "~> 1.1.0"
-  spec.add_development_dependency "bundler", "~> 1.14"
+  spec.add_development_dependency "bundler", "~> 2.0.2"
   spec.add_development_dependency "rake", "~> 12.0"
   spec.add_development_dependency "test-unit", ">= 3.2.0"
   spec.add_development_dependency "webmock"
